@@ -72,8 +72,8 @@ class _loginState extends State<login> {
   return await APIs.auth.signInWithCredential(credential);
 }
 catch(e){
-log('\n_signInWithGoogle : $e'); // error will be printed.
-Dialogs.showSnackbar(BuildContext, 'Something Went Wrong. Please Check The Internet! ');
+Dialogs.showSnackbar(context, 'Something Went Wrong. Please Check The Internet! ');
+// log('\n_signInWithGoogle : $e');  // error will be printed.
 return null;
 
 }

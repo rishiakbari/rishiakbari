@@ -1,7 +1,10 @@
 import 'dart:core';
 import 'dart:developer';
 import 'dart:io';
+// import 'dart:js_interop';
+// import 'package:chatapp/Widgets/chatUsercard.dart';
 import 'package:chatapp/models/chatuser.dart';
+import 'package:chatapp/models/message.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_storage/firebase_storage.dart';
@@ -104,5 +107,42 @@ class APIs{
       
     });
   }
+    ////*************CHAT SCREEN RELATED API ***************////
+    
 
+     // chats (collection) --> converstion_id(doc) --> messages(collection) --> messages(doc)   
+    
+    static String getConversationID(String id) => user.uid.hashCode <= id.hashCode // comparison to hashcode
+    ? '${user.uid}_$id' // after that user of current given the id and after that sender have took the id which has created by a specific uid and to provide the unique ide and it will be same 
+    : '${id}_${user.uid}';
+
+     // for getting all messages of a specific conversation from firstore database
+  static Stream<QuerySnapshot<Map<String, dynamic>>> getAllMessages(ChatUSer user){
+    return Firestore
+    .collection('chats/${getConversationID(user.id)}/messages/')
+    .snapshots();
+  }
+
+
+ // for sending messages
+   static Future<void> sendMessage(ChatUSer chatUSer , String msq) async{
+
+    // message sending time (also uesd as id)
+    final time = DateTime.now().millisecondsSinceEpoch.toString();
+
+    // messsage to send
+    final Message message = Message(
+      toId: chatUSer.id, 
+      read: '', 
+      msq: msq, 
+      type: Type.text, 
+      fromId: user.uid, 
+      sent: time,
+      );
+
+    final ref = Firestore
+    .collection('chats/${getConversationID(chatUSer.id)}/messages/');
+    await ref.doc(time).set(message.toJson());
+   }
+    
   } 

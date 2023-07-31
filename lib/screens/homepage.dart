@@ -45,8 +45,9 @@ class _homepageState extends State<homepage> {
           }
         },
         child: Scaffold(
+          backgroundColor: Colors.white,
           appBar: AppBar(
-            backgroundColor: Colors.transparent,
+            backgroundColor: Colors.indigo,
             leading: Icon(CupertinoIcons.home),
             title: _issearching 
             ? TextField(
@@ -95,10 +96,14 @@ class _homepageState extends State<homepage> {
           
             floatingActionButton: Padding(
               padding: const EdgeInsets.only(bottom: 10),
-              child: FloatingActionButton(onPressed: ()async{
+              child: FloatingActionButton(
+                onPressed: ()async{
                 await APIs.auth.signOut();
                 await GoogleSignIn().signOut();
-              } ,child: Icon(Icons.add_circle_outline_rounded),),
+              } ,child: Icon(
+                Icons.add_circle_outlined,
+                ),
+              ),
             ),
           
         body: StreamBuilder(
@@ -129,7 +134,8 @@ class _homepageState extends State<homepage> {
             itemCount: _issearching ? _searchList.length : _list.length,
             padding: const EdgeInsets.only(top: 8),
             physics: const BouncingScrollPhysics(),// sccree
-            itemBuilder:(BuildContext, index) {
+            itemBuilder:(
+              context, index) {
               return  chatUsercard(
                 user: _issearching 
                 ? _searchList[index] 
@@ -143,7 +149,7 @@ class _homepageState extends State<homepage> {
                 return   const Center(
                   child:  Text(
                   'No Connection Found!' ,
-                  style: TextStyle(fontSize: 20), 
+                  style: TextStyle(fontSize: 20,fontWeight: FontWeight.w500), 
                   ),
                 );
               }
