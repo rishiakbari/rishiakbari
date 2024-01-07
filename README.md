@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishi Akbari</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
-- 🔭 I’m currently working on **Quizzler**
+- 🔭 I’m currently working on **NFC in Flutter**
 
 - 🌱 I’m currently learning **flutter**
 
