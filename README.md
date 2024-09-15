@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishi Akbari</h1>
 <h3 align="center">A Passionate Flutter Developer From India</h3>
 
-- 🔭 I’m currently working on **Gravity Infoway Pvt Ltd**
+- 🔭 I’m currently working on **ARK Infosoft Pvt Ltd**
 
 - 🌱 I’m currently learning **Flutter**
 
