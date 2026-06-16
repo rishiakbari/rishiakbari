@@ -20,7 +20,7 @@
 I'm a <strong>Mobile Application Developer</strong> specializing in <strong>Flutter & Dart</strong>, currently building high-performance cross-platform applications at <strong>Vigorus AI Pvt Ltd</strong>. I'm passionate about crafting pixel-perfect UIs, writing clean & scalable code, and delivering seamless user experiences from concept to deployment.
 </p>
 
-- 🏢 **Currently Working** — Mobile App Developer at [Vigorus AI Pvt Ltd](https://www.vigorusai.com)
+- 🏢 **Currently Working** — Mobile App Developer at [Vigorus AI Pvt Ltd](https://vigorus.ai/)
 - 🚀 **Expertise** — Flutter, Dart, Firebase, REST APIs, State Management (Provider / Bloc / GetX)
 - 🌱 **Currently Exploring** — Advanced Animations, CI/CD Pipelines & Cloud Integrations
 - 💡 **Open to Collaborate** — On innovative Flutter projects, open-source tools & startup ideas
