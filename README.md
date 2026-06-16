@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rishiakbari/rishiakbari/blob/main/coding.gif?raw=true" alt="Coding GIF" width="600"/>
+  <img src="https://raw.githubusercontent.com/rishiakbari/rishiakbari/main/coding.gif" alt="Coding GIF" width="600"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Rishi Akbari</h1>
