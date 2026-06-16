@@ -46,122 +46,16 @@
 
 ### 🛠️ Languages and Tools
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://flutter.dev" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="48" height="48"/>
-      </a>
-      <br><strong>Flutter</strong>
-    </td>
-    <td align="center" width="96">
-      <a href="https://dart.dev" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="48" height="48"/>
-      </a>
-      <br><strong>Dart</strong>
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.android.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="48" height="48"/>
-      </a>
-      <br><strong>Android</strong>
-    </td>
-    <td align="center" width="96">
-      <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48"/>
-      </a>
-      <br><strong>Firebase</strong>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/>
-      </a>
-      <br><strong>Java</strong>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
-      </a>
-      <br><strong>Python</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48"/>
-      </a>
-      <br><strong>C</strong>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/cpp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/>
-      </a>
-      <br><strong>C++</strong>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48"/>
-      </a>
-      <br><strong>HTML5</strong>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48"/>
-      </a>
-      <br><strong>CSS3</strong>
-    </td>
-    <td align="center" width="96">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48"/>
-      </a>
-      <br><strong>Git</strong>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
-      </a>
-      <br><strong>Linux</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://aws.amazon.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48"/>
-      </a>
-      <br><strong>AWS</strong>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48"/>
-      </a>
-      <br><strong>MySQL</strong>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.adobe.com/products/xd.html" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="48" height="48"/>
-      </a>
-      <br><strong>Adobe XD</strong>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.figma.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48"/>
-      </a>
-      <br><strong>Figma</strong>
-    </td>
-    <td align="center" width="96">
-      <a href="https://postman.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48"/>
-      </a>
-      <br><strong>Postman</strong>
-    </td>
-    <td align="center" width="96">
-      <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/>
-      </a>
-      <br><strong>VS Code</strong>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,java,python,c,cpp,html,css&theme=dark" alt="Tech Stack Row 1" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,aws,mysql,figma,xd,postman,vscode,github,gradle&theme=dark" alt="Tech Stack Row 2" />
+  </a>
+</p>
 
 ---
 
