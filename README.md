@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rishiakbari/rishiakbari/main/coding.gif" alt="Coding GIF" width="600"/>
+  <img src="https://raw.githubusercontent.com/rishiakbari/rishiakbari/main/coding.gif" alt="Coding GIF" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Rishi Akbari</h1>
@@ -13,12 +13,9 @@
 </p>
 
 ---
-
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/rishiakbari/rishiakbari/main/coding.gif">
-
 ### 🚀 About Me
 
-- 🔭 I'm currently working at **ARK Infosoft Pvt Ltd**
+- 🔭 I'm currently working at **Vigorus AI Pvt Ltd**
 - 🌱 I'm currently learning **Flutter & Dart**
 - 💬 Ask me about **Flutter, Android, Firebase**
 - 📫 Reach me at **akbaririshi6@gmail.com**
