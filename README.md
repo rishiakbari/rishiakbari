@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rishi Akbari</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=A+Passionate+Flutter+Developer;From+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Beautiful+Mobile+Apps;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Mobile+Application+Developer+%F0%9F%93%B1;Flutter+%7C+Dart+%7C+Firebase+Specialist;Building+Scalable+Cross-Platform+Apps;Clean+Code+%E2%80%A2+Pixel-Perfect+UI+%E2%80%A2+Performance" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -13,15 +13,19 @@
 </p>
 
 ---
+
 ### 🚀 About Me
 
-- 🔭 I'm currently working at **Vigorus AI Pvt Ltd**
-- 🌱 I'm currently learning **Flutter & Dart**
-- 💬 Ask me about **Flutter, Android, Firebase**
-- 📫 Reach me at **akbaririshi6@gmail.com**
-- ⚡ Fun fact: **I love turning ideas into apps!**
+<p>
+I'm a <strong>Mobile Application Developer</strong> specializing in <strong>Flutter & Dart</strong>, currently building high-performance cross-platform applications at <strong>Vigorus AI Pvt Ltd</strong>. I'm passionate about crafting pixel-perfect UIs, writing clean & scalable code, and delivering seamless user experiences from concept to deployment.
+</p>
 
-<br clear="both"/>
+- 🏢 **Currently Working** — Mobile App Developer at [Vigorus AI Pvt Ltd](https://www.vigorusai.com)
+- 🚀 **Expertise** — Flutter, Dart, Firebase, REST APIs, State Management (Provider / Bloc / GetX)
+- 🌱 **Currently Exploring** — Advanced Animations, CI/CD Pipelines & Cloud Integrations
+- 💡 **Open to Collaborate** — On innovative Flutter projects, open-source tools & startup ideas
+- 🎯 **Goal** — To build impactful mobile solutions that solve real-world problems
+- 📬 **Reach Me** — [akbaririshi6@gmail.com](mailto:akbaririshi6@gmail.com)
 
 ---
 
